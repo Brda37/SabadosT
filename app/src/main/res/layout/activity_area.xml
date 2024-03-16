@@ -79,7 +79,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.131"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="91dp" />
+        tools:layout_editor_absoluteY="91dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/btSeleccionar"
